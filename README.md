@@ -132,7 +132,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">蝶々は2種類でしたが、片方はカメラに収まらず</span></h2>
+<h2><span class="yellow">蝶々は3種類来ていました</span></h2>
 
 <a href="20250103_001.png" target="_blank"><img src="20250103_001.png" alt="サンプル画像" width="900" /></a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6OlQ_4GwCgk?si=xQvctsRNCh9jxy8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>

@@ -165,6 +165,8 @@ p.note { display: none; }
 <a href="20250103_021.JPG" target="_blank"><img src="20250103_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250103_022.JPG" target="_blank"><img src="20250103_022.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">以上、今回は蝶々とお花、蜜蜂だけですが、ここまで観ていただきありがとうございました。</span></h2>
+
 <br><br><br><br><br>
 <h2><span class="yellow">
 <a href="https://torokoid.github.io/20241126_chiangrai/" target="_blank">Back to the menu page</a>
